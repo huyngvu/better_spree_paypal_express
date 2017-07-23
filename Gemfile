@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'sprockets'#, '~> 2.11.0'
-gem 'spree', branch: '3.2.0'
-gem 'spree_auth_devise', branch: '3.2.0.beta'
+gem 'spree', '~> 3.2.0'
+gem 'spree_auth_devise', '~> 3.2'
 #gem 'sqlite3'
 #gem 'pg'
 

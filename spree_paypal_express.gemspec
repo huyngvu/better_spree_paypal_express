@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'paypal-sdk-merchant'#, '1.106.1'
 
-  s.add_dependency 'spree_auth_devise', '3.2.0.beta'
+  s.add_dependency 'spree_auth_devise', '3.2'
 
   s.add_development_dependency 'capybara'#, '~> 2.1'
   s.add_development_dependency 'coffee-rails'
